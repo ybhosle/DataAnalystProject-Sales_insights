@@ -50,6 +50,9 @@ Data Analysis Using Power BI
 
 
 
+Screenshot of Power BI Dashboard
+================================
+
 ![image](https://user-images.githubusercontent.com/107353405/216251000-9dcbdae5-0102-44a2-b2b2-50a823aecd9e.png)
 
 
